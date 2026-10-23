@@ -1,6 +1,6 @@
 # legio-librae-navigator
 
-travelers guide for keeping the balance: a one-page reference for **librae legio**, the noise engineering stereo dynamics processor for the legio platform. every control by its panel tag, room, ceiling, color, tilt, cut and fsu drawn out, patches and specs.
+travelers guide for keeping your balance: a one-page reference for **librae legio**, the noise engineering stereo dynamics processor for the legio platform. every control by its panel tag, room, ceiling, color, tilt, cut and fsu drawn out, patches and specs.
 
 source: the noise engineering librae legio manual.
 
